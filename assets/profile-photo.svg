@@ -1,0 +1,27 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="720" rx="360" fill="url(#bg)"/>
+  <circle cx="360" cy="266" r="155" fill="#F3D8BC"/>
+  <path d="M225 560C240 490 286 438 360 438C434 438 480 490 495 560H225Z" fill="#CDE9BE"/>
+  <path d="M265 240C265 174 313 118 382 118C420 118 451 133 476 160C498 184 511 215 511 250C511 279 499 306 477 329C445 365 397 337 376 342C350 348 310 339 287 322C273 311 265 293 265 240Z" fill="#3B2A24"/>
+  <path d="M286 285C293 240 307 212 333 194C356 178 383 178 407 189C435 202 456 228 463 270C468 299 464 333 443 350C423 366 395 369 368 368C328 367 293 347 286 285Z" fill="#F3D8BC"/>
+  <circle cx="328" cy="276" r="11" fill="#2D1D1B"/>
+  <circle cx="417" cy="276" r="11" fill="#2D1D1B"/>
+  <path d="M332 334C350 348 372 355 394 353C404 352 417 347 425 341" stroke="#A25A52" stroke-width="9" stroke-linecap="round"/>
+  <path d="M255 273C276 257 303 252 330 257" stroke="#2F2F2F" stroke-width="14" stroke-linecap="round"/>
+  <path d="M421 257C444 252 470 257 491 273" stroke="#2F2F2F" stroke-width="14" stroke-linecap="round"/>
+  <rect x="276" y="238" width="168" height="95" rx="26" fill="transparent" stroke="#2F2F2F" stroke-width="10"/>
+  <path d="M450 252L509 240L509 300L450 286" fill="#2F2F2F" fill-opacity="0.15"/>
+  <path d="M255 253L217 241L217 298L255 288" fill="#2F2F2F" fill-opacity="0.08"/>
+  <path d="M168 614C191 548 258 495 343 495H379C465 495 531 548 553 614L168 614Z" fill="#9CCD8F"/>
+  <path d="M0 572C90 496 154 518 228 565C232 574 238 581 245 589H0V572Z" fill="#B5DBA9"/>
+  <path d="M720 600C654 521 595 533 507 573C500 581 495 589 490 598H720V600Z" fill="#B5DBA9"/>
+  <path d="M517 98C542 146 541 188 506 223C481 250 448 253 424 238C446 197 471 163 495 128L517 98Z" fill="#A7CE9A"/>
+  <path d="M584 149C613 168 628 199 615 236C601 273 570 292 548 287C555 249 549 200 531 166L584 149Z" fill="#A7CE9A"/>
+  <path d="M149 171C174 149 199 145 226 162C197 203 189 248 186 291C162 281 132 270 118 241C106 214 116 188 149 171Z" fill="#A7CE9A"/>
+  <defs>
+    <linearGradient id="bg" x1="96" y1="80" x2="628" y2="664" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEF5EE"/>
+      <stop offset="1" stop-color="#DDEBDD"/>
+    </linearGradient>
+  </defs>
+</svg>
